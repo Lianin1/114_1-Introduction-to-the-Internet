@@ -20,3 +20,5 @@
   
   修改新增部分皆在 [AItest.tsx](HW2/AItest.tsx) 進行標註說明，可透過關鍵字 "HW2" 搜尋
 </details>
+
+**HW3 : [HW1 + React 前端 + Gemini 整合說明](https://github.com/Lianin1/ITTI_HW3https://github.com/Lianin1/ITTI_HW3)**
