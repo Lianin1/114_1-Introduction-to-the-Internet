@@ -25,3 +25,11 @@
 
 * [Github Page](https://github.com/Lianin1/ITTI_HW3)
 * [講解影片](https://youtu.be/bkrV4a2qT1M)
+
+**Final Project**
+
+* **專題名稱**：轉生修仙錄
+* **組員姓名與學號**：謝博全 41371904H
+* **線上網站網址**：[https://ntnu-itti-final.onrender.com](https://ntnu-itti-final.onrender.com)
+* **YouTube 影片連結**：[https://youtu.be/7-F5Nm_g_8g](https://youtu.be/7-F5Nm_g_8g)
+* **專題程式碼 GitHub Repo 連結**：[https://github.com/Lianin1/NTNU_ITTI_Final](https://github.com/Lianin1/NTNU_ITTI_Final)
