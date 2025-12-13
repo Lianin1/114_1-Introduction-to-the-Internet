@@ -43,6 +43,21 @@
 
 * **講解影片**：[YouTube 連結](https://youtu.be/bkrV4a2qT1M)
 
+### 🔹 HW4 : 雲端部署實作 (Cloud Deployment)
+
+* **雲端部署連結**：
+  * [Render 部署網址](https://itti-hw3.onrender.com/)
+  * [Zeabur 部署網址](https://1233.zeabur.app/)
+
+* **部署平台**：Render, Zeabur
+
+* **使用的 API**：
+  * Google Maps API
+  * 交通部中央氣象署一般天氣預報 (今明 36 小時天氣預報)
+  * The Cat API
+
+* **部署方式說明**：Render 與 Zeabur 皆設定為直連 GitHub Repository 進行自動化部署 (Auto Deployment)。
+
 ## 🚀 期末專題 (Final Project)
 
 ### **專題名稱：轉生修仙錄 (Reincarnation Cultivation Record)**
