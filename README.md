@@ -10,6 +10,8 @@
 
 * **網頁連結**：[Personal Web Page](https://lianin1.github.io/114_1-Introduction-to-the-Internet/)
 
+---
+
 ### 🔹 HW2 : API 串接與應用
 
 * **台北城市儀表板 API 呼叫展示**：[YouTube 影片](https://youtu.be/xSvVghIxz4U)
@@ -37,11 +39,15 @@
 
 </details>
 
+---
+
 ### 🔹 HW3 : Git 版本控制實作
 
 * **GitHub Page**：[Repository 連結](https://github.com/Lianin1/ITTI_HW3)
 
 * **講解影片**：[YouTube 連結](https://youtu.be/bkrV4a2qT1M)
+
+---
 
 ### 🔹 HW4 : 雲端部署實作 (Cloud Deployment)
 
@@ -57,6 +63,8 @@
   * The Cat API
 
 * **部署方式說明**：Render 與 Zeabur 皆設定為直連 GitHub Repository 進行自動化部署 (Auto Deployment)。
+
+---
 
 ## 🚀 期末專題 (Final Project)
 
